@@ -80,32 +80,34 @@
 %jump Dungeon03 1775 1032 -2941 (dimension of ruin)
 
 -----------+{[ HARAM
-%jump NeutralCS1 -11218 -1025 -5410 (portout)
+%jump NeutralCS1 -11218 -1025 -5410 (in)
 
 -----------+{[ NUMEROUS
-%jump NeutralCS2 -6622 153 11009 (portout)
+%jump NeutralCS2 -6622 153 11009 (in)
 %jump NeutralCS2 9850 -1663 10079 (dimension of vengance)
 
 -----------+{[ 117
-%jump NeutralAS2 7359 -468 4867 (portout)
+%jump NeutralAS2 7359 -468 4867 (in)
 
 -----------+{[ 213
-%jump NeutralAS1 8564 735 5917 (portout)
+%jump NeutralAS1 8564 735 5917 (in)
 %jump NeutralAS1 -3818 72 6251 (dimension of doll)
 
 -----------+{[ ANACAADE
-%jump NeutralBS2 441 685 -5627 (portout)
+%jump NeutralBS2 441 685 -5627 (in)
 
 -----------+{[ SOLUS
-%jump NeutralBS1 -4393 758 -3923 (portout)
+%jump NeutralBS1 -4393 758 -3923 (in)
 %jump NeutralBS1 94 240 8415 (dimension of nightmares)
 
 -----------+{[ ELF HIDDEN LAND
-%jump Cora 526 1095 -8706 (port)
-%jump Cora -4752 1244 4233 (end land of exile)
+%jump Cora 526 1095 -8706 (in / spawn)
+%jump Cora -4752 1244 4233 (end land of exile / out)
 
 -----------+{[ MUSTION DISEL
-%jump mustion_disel -99 63 -3644 (port)
+%jump mustion_disel -99 63 -3644 (in)
+%jump mustion_disel -3196 -48 -65 (out)
+%jump mustion_disel -610 51 2890 (spawn)
 %jump mustion_disel 886 -86 405 (center)
 
 -----------+{[ NEW MAP
