@@ -1,71 +1,71 @@
 -----------+{[ MESSAGNG
-!keyword 									notice to all players and gm online
-#keyword 									notice to all gm only
-$gm keyword 							server welcome message 
-$notice keyword						notice all players yellow alert		
+!keyword                  notice to all players and gm online
+#keyword                  notice to all gm only
+$gm keyword               server welcome message 
+$notice keyword           notice all players yellow alert		
 
 -----------+{[ SPAWNING
-%*iyyyy01 amount					spawn items on the ground
-%moncall 00001 amount			spawn mobs infront
-%monset										refresh all mobs in all maps
+%*iyyyy01 amount          spawn items on the ground
+%moncall 00001 amount     spawn mobs infront
+%monset                   refresh all mobs in all maps
 
 -----------+{[ TELEPORTING
-%jump NeutralBS1 0 0 0	  teleport to map
-%xyz										  show my coords
-%town										  teleport to my HQ
-%port 1										ether ship outbound
-%ether 1									ether bound to hq
-%chip 1										move to chip 
-%mine										  core Z
-%transport								our airship
-%goto ign									go to a player
-%move ign									move to a player
-%call ign									spawn player
-%partycall								spawn players with party
-%guildcall								spawn players with guild
-%kick ign									kicking player from the game
-%chatban ign							mute player in allchat
-%circle										display total players nearby
-%total										display total online players
-$servertime								show server time
+%jump NeutralBS1 0 0 0    teleport to map
+%xyz                      show my coords
+%town                     teleport to my HQ
+%port 1                   ether ship outbound
+%ether 1                  ether bound to hq
+%chip 1                   move to chip 
+%mine                     core Z
+%transport                our airship
+%goto ign                 go to a player
+%move ign                 move to a player
+%call ign                 spawn player
+%partycall                spawn players with party
+%guildcall                spawn players with guild
+%kick ign                 kicking player from the game
+%chatban ign              mute player in allchat
+%circle                   display total players nearby
+%total                    display total online players
+$servertime               show server time
 
 -----------+{[ GOD MOVES
-%hide 1										hide me 0 false
-%matchless 1							1hit any 0 false
-%neverdie 1								killable 0 false
-%beggar 1									full drops 0 false
-%upgrade 1								100% rate up 0 false
-%bufftime 9999						set bufftime
-%fullforce								full force pt
-%exp 100									gain exp
-%setexp 50								set current exp
-%allskill 9999						gain skill pt
-%forceexp 100							set force exp
-%animusexp 100						gain exp to summon
-%die										  kill me
-%res 										  resurrect me
-%heal										  full hp
-%fullheal									full hp, fp, sp
-%mindmg										minimum damage
-%maxdmg										max damage
-%resetdmg									default damage
-%clearkillers							clear my killers
-%contribute_m 9999				gain pvp points
-%contribute_p 9999				gain cpt								
+%hide 1                   hide me 0 false
+%matchless 1              1hit any 0 false
+%neverdie 1               killable 0 false
+%beggar 1                 full drops 0 false
+%upgrade 1                100% rate up 0 false
+%bufftime 9999            set bufftime
+%fullforce                full force pt
+%exp 100                  gain exp
+%setexp 50                set current exp
+%allskill 9999            gain skill pt
+%forceexp 100             set force exp
+%animusexp 100            gain exp to summon
+%die                      kill me
+%ref                      resurrect me
+%heal                     full hp
+%fullheal                 full hp, fp, sp
+%mindmg                   minimum damage
+%maxdmg	                  max damage
+%resetdmg                 default damage
+%clearkillers             clear my killers
+%contribute_m 9999        gain pvp points
+%contribute_p 9999        gain cpt								
 -----------+{[ RACE OFFICIALS
-%bossme 0-9								RL to right council
-%voteinfo									show voting info
-%voteenable								enables archon voting
+%bossme 0-9               RL to right council
+%voteinfo                 show voting info
+%voteenable               enables archon voting
 
 -----------+{[ CHIP WAR
-%gethms										acquire HMS
-%nukeeff									get nuked
-%onehourwar 							set runtime
+%gethms                   acquire HMS
+%nukeeff                  get nuked
+%onehourwar               set runtime
 
 
 -----------+{[ INVENTORY
-%starter									starter pack
-%bags										  spawn bags
-%clearbags								clear bags
-%money										set my money to max
-%gold										  set my gold to max
+%starter                  starter pack
+%bags                     spawn bags
+%clearbags                clear bags
+%money                    set my money to max
+%gold                     set my gold to max
