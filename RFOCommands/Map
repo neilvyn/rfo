@@ -1,0 +1,120 @@
+-----------+{[ ACC HQ
+%jump NeutralA -8019 1037 -5484
+
+-----------+{[ BCC HQ
+%jump NeutralB -6335 550 6018
+
+-----------+{[ CCC HQ
+%jump NeutralC 7536 -157 284
+
+-----------+{[ SETTE
+%jump Sette -3475 -83 -3369 (cora port)
+%jump Sette 3419 -111 -3438 (accre port)
+%jump Sette 3269 294 3164 (bells port)
+%jump Sette 75 -110 29 (center shrine)
+%jump Sette -4356 -2 -19 (bn oc ent)
+%jump Sette -3664 -119 2613 (dimension of desolation)
+%jump Sette -2479 -95 3330 (ent hidden elf land)
+
+-----------+{[ CAULDRON
+%jump Cauldron01 4992 52 5634 (oc ent)
+%jump Cauldron01 -4164 -895 1718 (belph)
+%jump Cauldron01 -329 -815 521 (Evil Horn - dimension of primal fire)
+%jump Cauldron01 8 -166 -3900 (ent to bm)
+
+-----------+{[ ETHER
+%ether 1
+%jump Platform01 12544 1357 -3215 (Cora ether sky jail)
+%jump Platform01 -4737 3406 11077 (Bell ether sky jail)
+%jump Platform01 -11118 3700 -430 (Acc ether sky jail)
+%jump Platform01 6244 366 2866 (platform terrace)
+%jump Platform01 -385 622 -10153 (dimension of illusion)
+%jump Platform01 -7362 -19 -6688 (jacks lot bio 1 ent)
+
+-----------+{[ ELAN
+%jump Elan -5230 429 -3040 (coast port)
+%jump Elan -212 753 -401 (elan dev place)
+%jump Elan -7281 274 2161 (circle 1st)
+%jump Elan -7476 274 2519 (circle 2nd)
+%jump Elan -7556 274 2917 (circle 3rd)
+%jump Elan -7479 274 3321 (circle 4th)
+%jump Elan -7283 274 3681 (circle 5th)
+%jump Elan 2543 173 2499 (dimension of abyss)
+%jump Elan 120 379 -4915 (arena)
+
+-----------+{[ BM
+%jump Mountain_Beast -6389 639 -1935 (bm ent)
+%jump Mountain_Beast 2020 32 -4859 (bm pacifier)
+%jump Mountain_Beast 4518 1055 -722 (dragons grave ent)
+%jump Mountain_Beast 8843 3 -2394 (OC ent)
+%jump Mountain_Beast 4236 212 4492 (dimension of manes)
+
+-----------+{[ OC
+%jump Exile_Land -6630 13 -4371 (ent ent)
+%jump Exile_Land 7495 60 -4104 (k2)
+%jump Exile_Land -5805 21 2448 (tool)
+%jump Exile_Land 5949 557 3530 (dimension of unknown or yunko)
+
+-----------+{[ BIO 1
+%jump Medicallab 861 1 590 (bio1 ent)
+%jump Medicallab -8151 -138 1604 (bio2 ent)
+%jump Medicallab -991 -169 433 (bio 2 bug area)
+%jump Medicallab -8769 -211 2472 (backstage)
+%jump Medicallab -3706 -166 -197 (dimension of ruin)
+
+-----------+{[ BIO 2
+%jump Medicallab2 1061 0 661 (bio2 ent)
+%jump Medicallab2 -8151 -138 1604 (bio 2 exit)
+%jump Medicallab2 -991 -169 433 (bio 2 bug area)
+%jump Medicallab2 -8769 -211 2472 (backstage)
+
+-----------+{[ DUNGEONS
+%jump Dungeon03 4712 2787 1 (dimension of illusion)
+%jump Dungeon03 2231 1297 2930 (dimension of unknown or yunko)
+%jump Dungeon03 -2778 1612 1764 (dimension of doll)
+%jump Dungeon03 -1 317 -962 (dimension of nightmares)
+%jump Dungeon03 281 887 2130 (dimension of vengance)
+%jump Dungeon03 2204 520 524 (dimension of abyss)
+%jump Dungeon03 -2968 -4 0 (dimension of manes)
+%jump Dungeon03 374 858 -1970 (dimension of desolation)
+%jump Dungeon03 1775 1032 -2941 (dimension of ruin)
+
+-----------+{[ HARAM
+%jump NeutralCS1 -11218 -1025 -5410 (portout)
+
+-----------+{[ NUMEROUS
+%jump NeutralCS2 -6622 153 11009 (portout)
+%jump NeutralCS2 9850 -1663 10079 (dimension of vengance)
+
+-----------+{[ 117
+%jump NeutralAS2 7359 -468 4867 (portout)
+
+-----------+{[ 213
+%jump NeutralAS1 8564 735 5917 (portout)
+%jump NeutralAS1 -3818 72 6251 (dimension of doll)
+
+-----------+{[ ANACAADE
+%jump NeutralBS2 441 685 -5627 (portout)
+
+-----------+{[ SOLUS
+%jump NeutralBS1 -4393 758 -3923 (portout)
+%jump NeutralBS1 94 240 8415 (dimension of nightmares)
+
+-----------+{[ ELF HIDDEN LAND
+%jump Cora 526 1095 -8706 (port)
+%jump Cora -4752 1244 4233 (end land of exile)
+
+-----------+{[ NEW MAP
+%jump toy_land -2238 270 1001
+%jump mustion_disel 886 -86 405
+
+
+%jump elf_relics 0 0 0
+%jump cauldron_tower 0 0 0
+%jump tpactiell 0 0 0
+%jump medikeill_horon 0 0 0
+%jump Forrest05 0 0 0
+%jump Forrest07 0 0 0
+%jump lumenion_nortir 0 0 0
+%jump Wounded_Land 0 0 0
+%jump elf_skyA02 0 0 0
