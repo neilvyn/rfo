@@ -104,6 +104,10 @@
 %jump Cora 526 1095 -8706 (port)
 %jump Cora -4752 1244 4233 (end land of exile)
 
+-----------+{[ MUSTION DISEL
+%jump mustion_disel -99 63 -3644 (port)
+%jump mustion_disel 886 -86 405 (center)
+
 -----------+{[ NEW MAP
 %jump toy_land -2238 270 1001
 %jump mustion_disel 886 -86 405
