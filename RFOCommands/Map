@@ -26,7 +26,7 @@
 %jump Sette -2479 -95 3330 (ent hidden elf land)
 
 -----------+{[ CAULDRON
-%jump Cauldron01 4992 52 5634 (oc ent)
+%jump Cauldron01 4992 52 5634 (vc ent)
 %jump Cauldron01 -4164 -895 1718 (belph)
 %jump Cauldron01 -329 -815 521 (Evil Horn - dimension of primal fire)
 %jump Cauldron01 8 -166 -3900 (ent to bm)
