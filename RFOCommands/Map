@@ -10,6 +10,12 @@
 -----------+{[ ACC OUTPOST
 %jump NeutralA 3972 636 299
 
+-----------+{[ BCC OUTPOST
+%jump NeutralB 4755 1775 1404
+
+-----------+{[ CCC OUTPOST
+%jump NeutralC -5493 1290 -65
+
 -----------+{[ SETTE
 %jump Sette -3475 -83 -3369 (cora port)
 %jump Sette 3419 -111 -3438 (accre port)
