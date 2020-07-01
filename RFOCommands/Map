@@ -32,7 +32,7 @@
 %jump Cauldron01 8 -166 -3900 (ent to bm)
 
 -----------+{[ ETHER
-%ether 1
+%ether 0 or 1 or 2 (0 = bells; 1 = cora; 2 = acc)
 %jump Platform01 12544 1357 -3215 (Cora ether sky jail)
 %jump Platform01 -4737 3406 11077 (Bell ether sky jail)
 %jump Platform01 -11118 3700 -430 (Acc ether sky jail)
